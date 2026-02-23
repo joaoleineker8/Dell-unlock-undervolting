@@ -6,14 +6,14 @@
 |           | XPS 13 7390  | CFG Lock: 0x3E                                                        | 0xDA       |
 | **Vostro**| 5471         | [@Lyceris-chan](https://github.com/tadghh/Dell-unlock-undervolting/issues/1)               | 0x5D6   |
 | **Latitude** | 5490       | [@feather-47](https://github.com/tadghh/Dell-unlock-undervolting/issues/13) (Tested on: BIOS 1.41.0) | 0x5DC   |
-|           | 5491         | [@4evrplan](https://github.com/tadghh/Dell-unlock-undervolting/issues/3)                   | 0x659   |
-|           | 7300         | [@delacor](https://github.com/delacor) (Tested on: BIOS 1.24)                               | 0x789   |
+|           | 5491         | [@4evrplan](https://github.com/tadghh/Dell-unlock-undervolting/issues/3)                  | 0x659   |
+|           | 7300         | [@delacor](https://github.com/delacor) (Tested on: BIOS 1.24)                             | 0x789   |
 |           | 7480         | [@msprengholz](https://github.com/tadghh/Dell-unlock-undervolting/issues/14)              | 0x59C   |
 |           | 7490         | [@prifak](https://github.com/tadghh/Dell-unlock-undervolting/issues/10)                   | 0x5DC   |
 | **Precision** | 3630     | [@msprengholz](https://github.com/tadghh/Dell-unlock-undervolting/issues/14)              | 0x65C   |
 |           | 5520         | [@dimasafonis](https://github.com/tadghh/Dell-unlock-undervolting/issues/4)               | 0x59C   |
-| **Optiplex** | 3060 Micro | [@RonK-0](https://github.com/tadghh/Dell-unlock-undervolting/issues/5)                    | 0x65A   |
-
+| **Optiplex** | 3060 Micro | [@RonK-0](https://github.com/tadghh/Dell-unlock-undervolting/issues/5)                   | 0x65A   |
+| **Inspiron** | 15 5566    |                                                                                          | 0x58D   |
 
 ### ✔️ Compatibility
 This guide should work with any laptop model that has a K series/unlocked CPU as an optional upgrade.
